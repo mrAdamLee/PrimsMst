@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[]) {
 	if (argc > 0) {
-		AdjacencyMatrix adj = load_matrix("graph1.txt");
+		AdjacencyMatrix adj = load_matrix("graph100.txt");
 		std::cout << adj << '\n';
 		std::cout << "Weight: " << weight(adj) << '\n';
 		auto mst = prim(adj);

@@ -1,6 +1,2 @@
-﻿  mst.cpp
-c:\users\adam angel\source\repos\primsalg\primsalg\mst.cpp(27): warning C4018: '<': signed/unsigned mismatch
-c:\users\adam angel\source\repos\primsalg\primsalg\mst.cpp(83): warning C4018: '<': signed/unsigned mismatch
-c:\users\adam angel\source\repos\primsalg\primsalg\mst.cpp(89): warning C4018: '<': signed/unsigned mismatch
-c:\users\adam angel\source\repos\primsalg\primsalg\mst.cpp(102): warning C4018: '<': signed/unsigned mismatch
+﻿  main.cpp
   primsalg.vcxproj -> C:\Users\Adam Angel\source\repos\primsalg\Debug\primsalg.exe
